@@ -1,4 +1,11 @@
 <style>
+  body {
+            background-image: url("https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201805/article-5afd3c77edcdf.jpg");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+        }
   h2 {
         font-family: "微軟正黑體";
         font-weight: bold;

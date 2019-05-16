@@ -318,14 +318,20 @@
 
 <h2 class="header-level-2" id="B">國家公園標示意涵:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-    <img align="left" style="width: 100px; height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kinmen_National_Park_Headquarters_Logo.svg/2000px-Kinmen_National_Park_Headquarters_Logo.svg.png" data-type="image">
+    <img align="left" style="width: 100px; height: 100px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRuYnTlRmWatGzSkAocAeExuYxtG57lndSONluSTT9-g_BX2mj" data-type="image">
     <center>
-        <p>以閩南式建築的馬背造型，搭配吉祥的紅色構成整體圖案 主軸，突顯金門豐富的人文史蹟與傳統聚落，外圈則以綠 色代表金門亦有豐富的自然資源，例如鳥類等自然資源。
+        <p>1. 處徽整體主軸為展現陽明山的火山地質地形。
+2. 三角形設計即代表陽明山國家公園以火山地形為主體。
+3. 圓形代表整個地球與物質循環、生生不息，永續利用之保育觀念。
+4. 三角凹凸形狀，代表區內之最高峰七星山。
+5. 樹型代表自然界之動植物。
+6. 圍繞三角形外之波紋代表陽明山國家公園特殊之硫磺噴氣及雨霧。
+7. 綠底藍紋即意喻綠地與藍天是人類生存的空間所在。。
         </p>
     </center>
 </div>
 
-<h2 class="header-level-2" id="C">公園特色介紹:</h2>
+<h2 class="header-level-2" id="C">特色介紹:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 
 <p></p>
@@ -333,7 +339,7 @@
 
 <div class="tab">
     <button class="tablinks" onclick="openCity(event, '氣候水文')" id="defaultOpen">氣候水文</button>
-    <button class="tablinks" onclick="openCity(event, '地質地形')">地質地形</button>
+    <button class="tablinks" onclick="openCity(event, '地形景觀')">地形景觀</button>
     <button class="tablinks" onclick="openCity(event, '動物資源')">動物資源</button>
     <button class="tablinks" onclick="openCity(event, '植物資源')">植物資源</button>
     <button class="tablinks" onclick="openCity(event, '戰役古蹟')">戰役古蹟</button>
@@ -341,22 +347,22 @@
     <button class="tablinks" onclick="openCity(event, '相關影音')">相關影音</button>
 </div>
 
-<div id="氣候水文" class="tabcontent">
+<div id="氣候" class="tabcontent">
     <h2>氣候</h2>
-    <p>四面無高山屏障，風力強勁，冬季乾冷，春季多霧，年降雨量大於年蒸發量 ，使島上出現半乾旱的現象，不宜耕作，故島上農作以耐旱性雜糧為主。</p>
-    <h2>水文</h2>
-    <p>以平均狀況來看，五、六月類似內地梅雨季節，經常降雨不止是唯一降雨量超過蒸發量的季節，七月、八月夏季雷雨或颱風，雨量豐但無法截用而流失，並甚至帶來災害，十月至翌年二月則為旱季。由於受地形影響，金門地區主要水源以人工湖庫及地下水為主。</p>
+    <p>本區約位於北緯25度，有明顯的亞熱帶地區季風型氣候的特徵，夏季受到西南季風影響，多為晴朗，午後有雷陣雨的天氣，冬季則因東北季風南下而變得潮濕多雨，年雨量多達4000毫米，降雨日數也在190天以上。。</p>
+   
+   
 </div>
 
-<div id="地質地形" class="tabcontent">
-    <h2>地質</h2>
-    <p> 以瓊林尚義一帶將金門本島分成東西兩半部，東半部明顯地大量出露花崗片麻岩，西半部則是以紅土層為主體。</p>
+<div id="地形景觀" class="tabcontent">
+    
     <h2>地形</h2>
-    <p> (一)丘陵地形 : 以花崗片麻岩為主。</p>
-    <p> (二)臺地地形 : 金門和烈嶼的花崗岩地區臺地高度要比紅土層高度為高，原因為西部早期環境有利於大規模、厚層的紅土生成。</p>
-    <p> (三)低地、窪地 : 以中山紀念林與白乳山附近出現的雨蝕溝最為顯著，其成因與第四紀以來的環境變遷有密切關係，在景觀及環境教育上皆有價值。</p>
-    <p> (四)水體 : 金門地區陸上之水體除少數天然湖外，多為人工開發或築堤而成之湖庫，提高了此地環境的負載力，也為生物提供良好棲息和覓食地點。</p>
-    <p> (五)沙丘、沙灘、海岸 : 金門東北、東南及烈嶼的東北至東南，為花崗片麻岩丘陵地被海水侵蝕而成之崖面，並且露出花崗片麻岩被岩脈侵入的景象。</p>
+    <p> 一、水系 : 高聳山嶺為發源地，向四方奔流而下，形成火山區特有之輻射狀山系。</p>
+    <p> 二、山峰 : 山巒起伏，而以層狀火山居多，此類火山以錐狀為其特徵，火山口小，但噴出之熔岩流與碎屑物卻披覆相當廣闊之地區。</p>
+    <p> 三、火山口 : 大屯山西鄰馬鞍形之面天山，西邊的一個直徑230公尺，深45公尺，近似梨形，舊時積水成湖，稱為「面天池」，今日登山界所稱之「向天池」乃指此而言。目前此地只有在雨天時才會積點水，天晴時便整個乾涸掉。七星山東南山腰上的小窪地，一個長約200公尺，積水成湖，乃遊客所嚮往的「夢幻湖」。</p>
+    <p> 四、閉塞湖 : 大屯火山群之各火山體所噴發的熔岩流或碎屑物，經常在坡下錯綜交疊，有時兩個火山之熔岩流將其間之谷地圍堵而造成湖泊。</p>
+    <p>五、噴氣孔 : 引人入勝的景觀，莫過於火山活動後期地底殘餘岩漿活動所造成的各種現象。</p>
+    <p>六、溫泉 : 金山斷層沿線許多地殼裂隙發達的地方，地表水順著裂縫下滲到深處，受溫度仍高的火山岩體加熱，再度冒出地表。</p>
 </div>
 
 <div id="動物資源" class="tabcontent">

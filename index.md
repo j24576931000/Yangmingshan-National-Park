@@ -342,8 +342,8 @@
     <button class="tablinks" onclick="openCity(event, '地形景觀')">地形景觀</button>
     <button class="tablinks" onclick="openCity(event, '動物資源')">動物資源</button>
     <button class="tablinks" onclick="openCity(event, '植物資源')">植物資源</button>
-    <button class="tablinks" onclick="openCity(event, '戰役古蹟')">戰役古蹟</button>
-    <button class="tablinks" onclick="openCity(event, '人文史蹟')">人文史蹟</button>
+    
+   
     <button class="tablinks" onclick="openCity(event, '相關影音')">相關影音</button>
 </div>
 
@@ -377,30 +377,14 @@
 </div>
 
 
-<div id="戰役古蹟" class="tabcontent">
-    <h2> 翟山坑道 </h2>
-    <p>戰時供登陸小艇搶灘運補用，坑內並有停靠碼頭。一進入坑道內即可感受它的震撼力，靠著新架設的欄杆，望著深遂的倒影。在金門國家公園管理處重新整建後，翟山坑道於八十七年七月正式對外開放。</p>
-    <h2> 毋忘在莒 </h2>
-    <p>太武山上至三分之二處的途中，您就可發現由先總統 蔣公親頒題字的「毋忘在莒」四字的石塊矗立於上，誠然有提高士氣的精神在，勒石下有中興亭，旁有太武亭。</p>
-    <h2> 八二三戰史館 </h2>
-    <p>館內陳設有參與八二三戰役時期的各式武器、文物及圖片等，館外並陳列曾經參戰之飛機、戰車、榴彈砲兵器等。</p>
-    
-</div>
 
-<div id="人文史蹟" class="tabcontent">
-    <h2> 文臺寶塔 </h2>
-    <p>金門有三大古塔，一是太武山倒影塔，二是水頭村的矛山塔，三是舊金城的文台寶塔，相傳皆是西元1387年江夏侯周德興建築金門城時，衡度水陸形勢所建，以做為航海之標誌。而太武山的倒影塔，毁於大地震；水頭的矛山塔，又因軍事緣故而拆毁。唯一僅存的是文台寶塔。</p>
-    <h2> 風獅爺 </h2>
-    <p>由於東北季風旺盛，金門的居民自清朝時期，就開始設立鎮風的辟邪物來 鎮風驅邪，而在金門最多的鎮風辟邪物就是風獅爺。</p>
-    <h2> 羅厝媽祖公園 </h2>
-    <p>烈嶼羅厝媽祖公園臨近九宮碼頭，位在羅厝後山制高點，可俯瞰羅厝漁港與東林濱海公園，公園裡最引人注目的是一尊高聳的媽祖石像，為羅厝新地標，這尊媽祖聖像材質為花崗岩。</p>
-</div>
+
 
 <div id="相關影音" class="tabcontent">
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n3eVALwyMEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-</div>
+
 
 
 

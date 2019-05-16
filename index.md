@@ -338,7 +338,7 @@
     <body>
 
 <div class="tab">
-    <button class="tablinks" onclick="openCity(event, '氣候水文')" id="defaultOpen">氣候水文</button>
+    <button class="tablinks" onclick="openCity(event, '氣候')" id="defaultOpen">氣候</button>
     <button class="tablinks" onclick="openCity(event, '地形景觀')">地形景觀</button>
     <button class="tablinks" onclick="openCity(event, '動物資源')">動物資源</button>
     <button class="tablinks" onclick="openCity(event, '植物資源')">植物資源</button>
@@ -349,8 +349,7 @@
 
 <div id="氣候" class="tabcontent">
     <h2>氣候</h2>
-    <p>本區約位於北緯25度，有明顯的亞熱帶地區季風型氣候的特徵，夏季受到西南季風影響，多為晴朗，午後有雷陣雨的天氣，冬季則因東北季風南下而變得潮濕多雨，年雨量多達4000毫米，降雨日數也在190天以上。。</p>
-   
+    <p>本區約位於北緯25度，有明顯的亞熱帶地區季風型氣候的特徵，夏季受到西南季風影響，多為晴朗，午後有雷陣雨的天氣，冬季則因東北季風南下而變得潮濕多雨，年雨量多達4000毫米，降雨日數也在190天以上。</p>
    
 </div>
 

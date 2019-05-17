@@ -498,7 +498,7 @@
 <div class="tab">
     <button class="tablinks" onclick="openCity(event, '遊園公車')">遊園公車</button>
     <button class="tablinks" onclick="openCity(event, '聯營公車')">聯營公車</button>
-    <button class="tablinks" onclick="openCity(event, '遊園公車')">遊園公車</button>
+    <button class="tablinks" onclick="openCity(event, '休閒公車')">休閒公車</button>
     <button class="tablinks" onclick="openCity(event, '公路客運')">公路客運</button>
     <button class="tablinks" onclick="openCity(event, '租車')">租車</button>
     
@@ -522,7 +522,7 @@
 7．東湖到陽明山國家公園管理處<br>
 搭乘681到陽明山國家公園管理處<br> </p>
 <div id="遊園公車" class="tabcontent">
-    <h2 style="color:#FF8800;font-weight:bold;">觀光公車:</h2>
+    <h2 style="color:#FF8800;font-weight:bold;">遊園公車:</h2>
    
 <p>
         <table border="1" cellpadding="5" cellspacing="0" width="90%">
@@ -676,14 +676,14 @@
     </p>
 </div>
 
-<div id="遊園公車" class="tabcontent">
-    <h2 style="color:#FF8800;font-weight:bold;">遊園公車(僅假日行駛):</h2>
+<div id="休閒公車" class="tabcontent">
+    <h2 style="color:#FF8800;font-weight:bold;">休閒公車(僅假日行駛):</h2>
 
     <table border="1" cellpadding="5" cellspacing="0" width="90%">
         <thead>
             <tr>
-                <th width="31%">航空公司 </th>
-                <th width="18%">聯絡電話 </th>
+                <th width="31%">名稱 </th>
+                <th width="18%">路線 </th>
             </tr>
         </thead>
 

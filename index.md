@@ -820,34 +820,45 @@
                     <th width="31%">店名</th>
                     <th width="43%">地址 </th>
                     <th width="23%">聯絡電話 </th>
+                    <th width="23%">營業時間 </th>
                 </tr>
             </thead>
             <tbody>
 
                 <tr>
-                    <td>蚵嗲之家</td>
-                    <td>金門縣金城鎮莒光路一段59號</td>
-                    <td>(08)232-2210</td>
+                    <td>The cafe’ by 想 陽明山</td>
+                    <td>台北市士林區陽明里光華路30號</td>
+                    <td>02 2862 6628</td>
+                    <td>上午9:30 – 下午8:00</td>
                 </tr>
 
                 <tr>
-                    <td>金道地小吃店</td>
-                    <td>金門縣金城鎮前水頭15號</td>
-                    <td>(08)232-7969</td>
+                    <td>草山夜未眠景觀餐廳</td>
+                    <td>台北市士林區東山路25巷81弄99號</td>
+                    <td>02 2862 3751</td>
+                    <td>周一至周四16:00 – 3:00周五16:00 – 5:00周六12:00 – 5:00周日12:00 – 3:00</td>
                 </tr>
 
                 <tr>
-                    <td>閩式燒餅</td>
-                    <td>金門縣金沙鎮博愛街48號</td>
-                    <td>(08)235-2922</td>
+                    <td>皇池溫泉御膳館</td>
+                    <td>台北市北投區行義路402巷42之1號</td>
+                    <td>02 2862 3688</td>
+                    <td>皇池一館泡湯24小時，用餐中午12：00～凌晨03：00</td>
                 </tr>
 
                 <tr>
-                    <td>阿芬海產店</td>
-                    <td>金門縣金湖鎮復國墩25號</td>
-                    <td>(08)233-1139</td>
+                    <td>白房子Yang Ming Caf’e</td>
+                    <td>台北市士林區愛富二街厚生巷2號</td>
+                    <td>(02)2861-1777</td>
+                    <td>10:00–21:00</td>
                 </tr>
 
+                <tr>
+                    <td>蒙馬特影像咖啡 </td>
+                    <td>台北市士林區菁山路131巷13號</td>
+                    <td>02 2862 4347</td>
+                    <td>早上10:00–19:00</td>
+                </tr>
             </tbody>
         </table>
     </p>
@@ -858,15 +869,14 @@
     <ul>
         <li><a href="http://np.cpami.gov.tw/">台灣國家公園</a></li>
         <br>
-        <li><a href="http://www.kmnp.gov.tw/index.php">金門國家公園</a></li>
+        <li><a href="https://www.ymsnp.gov.tw/">陽明山國家公園</a></li>
         <br>
-        <li><a href="http://www.kcbfa.gov.tw/BusSite/wSite/ct?xItem=3010&ctNode=241&mp=6">金門公共車船管理處</a></li>
+        
+        <li><a href="https://www.mecocute.com/ymsnp/">台北美食：陽明山美食溫泉餐廳小吃景點推薦，陽明山必吃美食必去景點</a></li>
         <br>
-        <li><a href="https://www.kma.gov.tw/main/index.aspx">金門航空站</a></li>
+        <li><a href="https://www.trivago.com.tw/?themeId=457&iGeoDistanceItem=2512484&sem_keyword=%E9%99%BD%E6%98%8E%E5%B1%B1%20%E4%BD%8F%E5%AE%BF%20%E6%8E%A8%E8%96%A6&sem_creativeid=333376697745&sem_matchtype=e&sem_network=g&sem_device=c&sem_placement=&sem_target=&sem_adposition=1t1&sem_param1=&sem_param2=&sem_campaignid=1682128211&sem_adgroupid=71121431928&sem_targetid=kwd-635820411482&sem_location=1012825&cip=8861901253&gclid=EAIaIQobChMI3dPGgaKi4gIVGq6WCh2bkwmiEAAYASAAEgK6oPD_BwE">trivago</a></li>
         <br>
-        <li><a href="https://travel.yam.com/Article.aspx?sn=93981">輕旅行</a></li>
-        <br>
-        <li><a href="https://asiayo.com/zh-tw/list/tw/kinmen-county/">AsiaYo</a></li>
+        <li><a href="https://zh.wikipedia.org/wiki/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92">維基百科</a></li>
     </ul>
 </div>
 

@@ -340,8 +340,8 @@
 <div class="tab">
     <button class="tablinks" onclick="openCity(event, '氣候')" id="defaultOpen">氣候</button>
     <button class="tablinks" onclick="openCity(event, '地形景觀')">地形景觀</button>
-    <button class="tablinks" onclick="openCity(event, '動物資源')">動物資源</button>
-    <button class="tablinks" onclick="openCity(event, '植物資源')">植物資源</button>
+    <button class="tablinks" onclick="openCity(event, '動物')">動物</button>
+    <button class="tablinks" onclick="openCity(event, '植物')">植物</button>
     
    
     <button class="tablinks" onclick="openCity(event, '相關影音')">相關影音</button>
@@ -364,16 +364,15 @@
     <p>六、溫泉 : 金山斷層沿線許多地殼裂隙發達的地方，地表水順著裂縫下滲到深處，受溫度仍高的火山岩體加熱，再度冒出地表。</p>
 </div>
 
-<div id="動物資源" class="tabcontent">
-    <h2>(一)鳥類 </h2>
-    <p>鳥類是金門最具特色的野生動物資源，於鹹淡水溼地、潮間 帶以及陸地田野、樹林、灌叢間，均可看到多樣且豐富的鳥類資源，其中過境鳥佔45%為最大宗。金門地區冬候鳥中以鸕鶿、赤頸鴨、小水鴨等為主要鳥種，留鳥以白頭翁、麻雀、八哥、珠頸斑鳩及喜鵲等族群量較多；夏候鳥則以家燕、杜鵑科鳥類及栗喉蜂虎 等最具特色。</p>
-    <h2>(二)哺乳類</h2>
-    <p>陸域哺乳動物中，除歐亞水獺體型較大外，其餘均為小型野生動物。歐亞水獺同時列名於國際與國內之保育類野生動物名錄，目前金門地區各主要溼地水體，如前埔溪流域、雙鯉湖及慈湖周邊、后豐港地區、金沙溪流域均可發現水獺活動痕跡，族群尚稱穩定，仍需與野生動物保育主管機關合作加強其動態調查及棲所之保護。</p>
+<div id="動物" class="tabcontent">
+    <h2> </h2>
+    <p>因地形陡峭及人為活動頻繁，較不利於大型哺乳動物活動，但複雜的林相仍然提供了許多中、小型野生動物理想的活動、覓食和棲息場所；在生態保護區內臺灣獼猴、臺灣野豬、臺灣野兔、赤腹松鼠、白鼻心、臺灣鼴鼠、刺鼠、鬼鼠等哺乳動物活動頻繁，活動範圍以鹿角坑溪、磺嘴山一帶的天然闊葉林與草原為主，其中又以赤腹松鼠最為常見，足跡幾乎遍及全區。</p>
+  
 </div>
 
  <div id="植物資源" class="tabcontent">
-    <h2>特色比較</h2>
-    <p>金門與台灣在植群組成上差異性仍甚大，如殼斗科(Fagaceae)在台灣為相當重要之一科，約產五十餘種，然在金門迄今未發現；金門之植物種類另一與台灣差異甚大堵，為樟科之潺槁樹，此種為目前金門自生木本植物中蓄積量最豐者。惟未見於台灣。</p>
+    <h2></h2>
+    <p>目前園區內的植物種類含部份馴化栽培種共約有1359種，生育環境包括水生與陸生兩種，陸生大致可分為芒草原、矢竹林、闊葉林與人工造林等。</p>
 </div>
 
 

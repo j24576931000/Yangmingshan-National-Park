@@ -496,94 +496,187 @@
 <h2 class="header-level-2" id="D">交通資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <div class="tab">
-    <button class="tablinks" onclick="openCity(event, '觀光公車')">觀光公車</button>
+    <button class="tablinks" onclick="openCity(event, '遊園公車')">遊園公車</button>
+    <button class="tablinks" onclick="openCity(event, '聯營公車')">聯營公車</button>
+    <button class="tablinks" onclick="openCity(event, '遊園公車')">遊園公車</button>
     <button class="tablinks" onclick="openCity(event, '租車')">租車</button>
     <button class="tablinks" onclick="openCity(event, '空中運輸')">空中運輸</button>
 
 </div>
-
-<div id="觀光公車" class="tabcontent">
+<p>1．台北火車站到陽明山國家公園管理處
+（1）北二門搭乘260公車到陽明山站（終點站)到轉搭108遊園公車到陽明山國家公園管理處
+（2）搭乘捷運淡水線、北投線到捷運劍潭站到轉搭紅5到陽明山站（終點站）轉搭108遊園公車到陽明山國家公園管理處
+2．台灣高鐵台北站到陽明山國家公園管理處
+（1）北二門搭乘260公車到陽明山站（終點站)轉搭108遊園公車
+（2）搭乘捷運淡水線、北投線到捷運劍潭站到轉搭紅5到陽明山站（終點站）轉搭108遊園公車到陽明山國家公園管理處
+3．公園路（台北車站)到陽明山國家公園管理處
+搭乘1717皇家客運到陽明山國家公園管理處
+4．捷運劍潭站到陽明山國家公園管理處
+搭乘紅5到陽明山站（終點站轉搭108遊園公車到陽明山國家公園管理處
+5．捷運石牌站到陽明山國家公園管理處
+搭乘小8到陽明山國家公園管理處
+6．捷運北投站到陽明山國家公園管理處
+（1）搭乘小9到陽明山國家公園管理處
+（2）搭乘230公車陽明山站轉搭108遊園公車到陽明山國家公園管理處
+7．東湖到陽明山國家公園管理處
+搭乘681到陽明山國家公園管理處 </p>
+<div id="遊園公車" class="tabcontent">
     <h2 style="color:#FF8800;font-weight:bold;">觀光公車:</h2>
-    <p>水頭翟山線 電話:082-332-721 </p>
-    <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line1.gif" title="水頭翟山線"></p>
-    <p>古寧頭戰場線 電話:082-332-721 </p>
-    <p><img src="http://www.kmnp.gov.tw/filesys/image/sys/line2.gif" title="古寧頭戰場線"></p>
-</div>
-
-<div id="租車" class="tabcontent">
-    <h2 style="color:#FF8800;font-weight:bold;">租車:</h2>
-    <p>
+   
+<p>
         <table border="1" cellpadding="5" cellspacing="0" width="90%">
             <thead>
                 <tr>
-                    <th width="31%">租車行名稱 </th>
-                    <th width="47%">地址 </th>
-                    <th width="22%">聯絡電話 </th>
+                    <th width="31%">名稱 </th>
+                    <th width="47%">路線 </th>
+                  
                 </tr>
             </thead>
             <tbody>
 
+
                 <tr>
-                    <td>大新小客車租賃行</td>
-                    <td>金門縣金城鎮民權路65巷1號</td>
-                    <td>082-324128</td>
+                    <td>108</td>
+                    <td>陽明山遊園公車</td>
+                    
                 </tr>
 
                 <tr>
-                    <td>汎德小客車租賃中心</td>
-                    <td>金門縣金湖鎮新武德新莊4號</td>
-                    <td>082-334082</td>
+                    <td>108區</td>
+                    <td>陽明山－二子坪</td>
+                    
                 </tr>
 
-                <tr>
-                    <td>金馬小客車租賃社</td>
-                    <td>金門縣金城鎮民生路1-1號</td>
-                    <td>082-324518</td>
-                </tr>
-
-                <tr>
-                    <td>冠城汽車租賃行</td>
-                    <td>金門縣金城鎮民族路7-7號</td>
-                    <td>082-323390</td>
-                </tr>
-
-                <tr>
-                    <td>冠軍小客車租賃行</td>
-                    <td>金門縣金城鎮環島西路一段20號</td>
-                    <td>082-372122</td>
-                </tr>
-
-                <tr>
-                    <td>富成租車公司</td>
-                    <td>金門縣金城鎮伯玉路200號</td>
-                    <td>082-322177</td>
-                </tr>
-
-                <tr>
-                    <td>景昇租車行</td>
-                    <td>金門縣金湖鎮新菜市場11-1號</td>
-                    <td>082-334322</td>
-                </tr>
-
-                <tr>
-                    <td>吉品租車</td>
-                    <td>金門縣伯玉路二段351號</td>
-                    <td>082-372608</td>
-                </tr>
-
-                <tr>
-                    <td>艾上綠能電動機車租賃</td>
-                    <td>金門縣金寧鄉伯玉路一段232號之2</td>
-                    <td>082-328096</td>
-                </tr>
-
-            </tbody>
+               
+                </tbody>
         </table>
     </p>
 </div>
 
-<div id="空中運輸" class="tabcontent">
-    <h2 style="color:#FF8800;font-weight:bold;">空中運輸:</h2>
+<div id="聯營公車" class="tabcontent">
+    <h2 style="color:#FF8800;font-weight:bold;">聯營公車:</h2>
+    <p>
+        <table border="1" cellpadding="5" cellspacing="0" width="90%">
+            <thead>
+                <tr>
+                    <th width="31%">名稱 </th>
+                    <th width="47%">路線 </th>
+                  
+                </tr>
+            </thead>
+            <tbody>
+
+
+                <tr>
+                    <td>230</td>
+                    <td>捷運北投站─陽明山</td>
+                    
+                </tr>
+
+                <tr>
+                    <td>260</td>
+                    <td>東園─陽明山</td>
+                    
+                </tr>
+
+                <tr>
+                    <td>260區</td>
+                    <td>臺北車站─陽明山</td>
+                   
+                </tr>
+
+                <tr>
+                    <td>303 </td>
+                    <td>捷運劍潭站─大坪尾</td>
+                    
+                </tr>
+
+                <tr>
+                    <td>303區	</td>
+                    <td>捷運劍潭站─平等里</td>
+                    
+                </tr>
+
+                <tr>
+                    <td>681	</td>
+                    <td>東湖站─陽明山國家公園管理處</td>
+                </tr>
+
+                <tr>
+                    <td>紅5	</td>
+                    <td>捷運劍潭站─陽明山</td>
+                    >
+                </tr>
+
+                <tr>
+                    <td>小6	</td>
+                    <td>北投站─清天宮</td>
+                    <td>082-372608</td>
+                </tr>
+
+                <tr>
+                    <td>小7</td>
+                    <td>北投站─嶺頭</td>
+                    
+                </tr>
+                 <tr>
+                    <td>小8</td>
+                    <td>捷運石牌站─竹子湖</td>
+                    
+                </tr>
+                 <tr>
+                    <td>小9</td>
+                    <td>(台灣好行-北投竹子湖)	捷運北投站─竹子湖</td>
+                    
+                </tr>
+                 <tr>
+                    <td>小15</td>
+                    <td>捷運劍潭站─擎天崗</td>
+                    
+                </tr>
+                 <tr>
+                    <td>小15區</td>
+                    <td>捷運劍潭站─菁山遊憩區</td>
+                    
+                </tr>
+                
+                 <tr>
+                    <td>小18</td>
+                    <td>捷運劍潭站─聖人瀑布</td>
+                    
+                </tr>
+                 <tr>
+                    <td>小19</td>
+                    <td>捷運劍潭站─平等里</td>
+                    
+                </tr>
+                 <tr>
+                    <td>小25</td>
+                    <td>捷運北投站─六窟</td>
+                    
+                </tr>
+                <tr>
+                    <td>小26</td>
+                    <td>北投站─頂湖</td>
+                    
+                </tr>
+                <tr>
+                    <td>小36</td>
+                    <td>捷捷運石牌站─六窟</td>
+                    
+                </tr>
+                <tr>
+                    <td>市民小巴1</td>
+                    <td>捷運劍潭站─風櫃嘴</td>
+                    
+                </tr>
+                </tbody>
+        </table>
+    </p>
+</div>
+
+<div id="遊園公車" class="tabcontent">
+    <h2 style="color:#FF8800;font-weight:bold;">遊園公車(僅假日行駛):</h2>
 
     <table border="1" cellpadding="5" cellspacing="0" width="90%">
         <thead>
@@ -595,23 +688,23 @@
 
         <tbody>
             <tr>
-                <td>立榮航空</td>
-                <td>(07)791-1000</td>
+                <td>109</td>
+                <td>萬芳社區─陽明山國家公園管理處</td>
             </tr>
 
             <tr>
-                <td>華信航空</td>
-                <td>(02)412-8008</td>
+                <td>111</td>
+                <td>	捷運迴龍站─陽明山國家公園管理處</td>
             </tr>
 
             <tr>
-                <td>遠東航空</td>
-                <td>(02)4499-567</td>
+                <td>128</td>
+                <td>捷運石牌站─陽明山國家公園管理處</td>
             </tr>
 
             <tr>
-                <td>相關諮詢</td>
-                <td>(08)2322-381</td>
+                <td>129</td>
+                <td>	捷運北投站─竹子湖</td>
             </tr>
 
         </tbody>

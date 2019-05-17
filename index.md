@@ -424,13 +424,13 @@
 
     <div class="mySlides fade">
         <div class="numbertext">3 / 5</div>
-        <img style="width:100%;height:400px" src="https://8.share.photo.xuite.net/chen007/1867ec8/5489051/212337709_o.jpg">
+        <img style="width:100%;height:400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQbpF2Ed1cBs92fJpY4bIFw8aLfNKPjMt8hR7sl3AnYO_cDSyoQ">
         <div class="text"> 山羌</div>
     </div>
     
     <div class="mySlides fade">
         <div class="numbertext">4 / 5</div>
-        <img style="width:100%;height:400px" src="https://8.share.photo.xuite.net/chen007/1867e0b/5489051/212337776_o.jpg">
+        <img style="width:100%;height:400px" src="https://www.ymsnp.gov.tw/filesys/images/ch/csv/rsc/resource04-01.jpg">
         <div class="text"> 赤腹松鼠  </div>
     </div>
     

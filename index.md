@@ -305,6 +305,15 @@
         });
     </script>
 </head>
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'zh-tw', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 陽明山國家公園
 <h2 class="header-level-2" id="A">基本資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">

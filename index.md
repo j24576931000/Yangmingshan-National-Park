@@ -314,7 +314,8 @@ function googleTranslateElementInit() {
 </script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-陽明山國家公園
+<center><h1 style="font-size:40px;font-weight:bold;">陽明山國家公園</h1></center>
+
 <h2 class="header-level-2" id="A">基本資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
     <ol>

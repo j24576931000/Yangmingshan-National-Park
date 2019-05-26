@@ -417,6 +417,7 @@ function googleTranslateElementInit() {
     // Get the element with id="defaultOpen" and click on it
     document.getElementById("defaultOpen").click();
 </script>
+ </body>
     <p></p>
         <div class="slideshow-container">
 
@@ -452,7 +453,7 @@ function googleTranslateElementInit() {
     
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
+</div>
 
 <br>
 

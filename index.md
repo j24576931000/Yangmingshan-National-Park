@@ -375,13 +375,13 @@ function googleTranslateElementInit() {
 </div>
 
 <div id="動物" class="tabcontent">
-    <h2> </h2>
+   
     <p>因地形陡峭及人為活動頻繁，較不利於大型哺乳動物活動，但複雜的林相仍然提供了許多中、小型野生動物理想的活動、覓食和棲息場所；在生態保護區內臺灣獼猴、臺灣野豬、臺灣野兔、赤腹松鼠、白鼻心、臺灣鼴鼠、刺鼠、鬼鼠等哺乳動物活動頻繁，活動範圍以鹿角坑溪、磺嘴山一帶的天然闊葉林與草原為主，其中又以赤腹松鼠最為常見，足跡幾乎遍及全區。</p>
   
 </div>
 
  <div id="植物資源" class="tabcontent">
-    <h2></h2>
+    
     <p>目前園區內的植物種類含部份馴化栽培種共約有1359種，生育環境包括水生與陸生兩種，陸生大致可分為芒草原、矢竹林、闊葉林與人工造林等。</p>
 </div>
 
@@ -453,7 +453,7 @@ function googleTranslateElementInit() {
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
-</div>
+
 <br>
 
 <div style="text-align:center">
